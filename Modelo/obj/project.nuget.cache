@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ncQ1ENuKXYjgLFFRc6MXXMs5VYV5XOjJot27HYSZwA5W5ir5Tj048fnRwgNjhY4N1A7qoU3EKIxvSHW30zavzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANTONY\\Documents\\INGENIERIA - UMG\\8vo. SEMESTRE\\DESARROLLO WEB\\MODULO 3\\pr_web\\Modelo\\Modelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANTONY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

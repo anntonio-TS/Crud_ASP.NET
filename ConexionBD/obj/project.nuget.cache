@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T6hP8uBp3KLA3D/R5xZjP02jEd4d5Jgmwn47OJbvsVSFXXCtoHFh2S7jMAVnfnocJUogj13CxXdZbLMRYF30/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANTONY\\Documents\\INGENIERIA - UMG\\8vo. SEMESTRE\\DESARROLLO WEB\\MODULO 3\\pr_web\\ConexionBD\\ConexionBD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANTONY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
